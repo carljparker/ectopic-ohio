@@ -61,7 +61,8 @@ Criminal Justice (CRJ) committee.
 
 ---
 
-Copies of HB 182 and HB 413 have been saved off to this repository.
+I have saved off copies of HB 182 and HB 413--and a snapshot of the
+Ohio's legislative status report--to this repository.
 
 
 # --- END --- #
