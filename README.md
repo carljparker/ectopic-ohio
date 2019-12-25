@@ -23,6 +23,9 @@ Code, which would be updated by the proposed bill.
 
 >  <http://codes.ohio.gov/orc/gp9.04>
 
+As of this writing HB 413 is being considered by the Ohio legislature's
+House Insurance (INS) committee.
+
 All that said, there is _another_ bill, House Bill 413 sponsored by
 Candice R. Keller (District 53) and Rong Hood (District 78), which
 _does_ expose a doctor to criminal prosecution if they do not attempt to
@@ -46,6 +49,9 @@ The craziness in question occurs on page 184 of the bill:
 Link to the proposed bill:
 
 >  <https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA133-HB-413>
+
+As of this writing HB 413 is being considered by the Ohio legislature's
+Criminal Justice (CRJ) committee.
 
 Copies of HB 182 and HB 413 have been saved off to this repository.
 
