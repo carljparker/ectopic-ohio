@@ -23,12 +23,14 @@ Code, which would be updated by the proposed bill.
 
 >  <http://codes.ohio.gov/orc/gp9.04>
 
-As of this writing HB 413 is being considered by the Ohio legislature's
+As of this writing HB 182 is being considered by the Ohio legislature's
 House Insurance (INS) committee.
 
+---
+
 All that said, there is _another_ bill, House Bill 413 sponsored by
-Candice R. Keller (District 53) and Rong Hood (District 78), which
-_does_ expose a doctor to criminal prosecution if they do not attempt to
+Candice R. Keller (District 53) and Ron Hood (District 78), which _does_
+expose a doctor to criminal prosecution if they do not attempt to
 re-implant an ectopic pregnancy . . . Good Grief.
 
 The craziness in question occurs on page 184 of the bill:
