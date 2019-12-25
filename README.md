@@ -1,6 +1,15 @@
+Ohio House Bill 182, introduced by John Becker (District 65), is
+egregious, but at the same time is being widely misrepresented as
+requiring doctors to attempt to re-implant ectopic pregnancies. The bill
+does no such thing. The intent of the bill is to prohibit insurance
+providers from paying for abortion services.
 
+Link to the proposed bill.
 
-Link to current version of section 9.05 of Ohio Revised Code
+>  <https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA133-HB-182>
+
+Text of and link to _current_ version of section 9.05 of Ohio Revised
+Code, which would be updated by the proposed bill.
 
 >  9.04 State funds for nontherapeutic abortion benefits.
 >  
