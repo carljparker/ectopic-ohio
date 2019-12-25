@@ -23,9 +23,6 @@ Code, which would be updated by the proposed bill.
 
 >  <http://codes.ohio.gov/orc/gp9.04>
 
-As of this writing HB 182 is being considered by the Ohio legislature's
-House Insurance (INS) committee.
-
 ---
 
 All that said, there is _another_ bill, House Bill 413 sponsored by
@@ -52,8 +49,17 @@ Link to the proposed bill:
 
 >  <https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA133-HB-413>
 
+---
+
+As of this writing HB 182 is being considered by the Ohio legislature's
+House Insurance (INS) committee.
+
 As of this writing HB 413 is being considered by the Ohio legislature's
 Criminal Justice (CRJ) committee.
+
+>  <https://www.legislature.ohio.gov/Assets/CurrentStatusReports/133/FormattedStatusReport.pdf>
+
+---
 
 Copies of HB 182 and HB 413 have been saved off to this repository.
 
